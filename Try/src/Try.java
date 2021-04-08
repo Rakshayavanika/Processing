@@ -52,4 +52,5 @@ public class Try extends PApplet {
     private void background() {
         background(255);
     }
+    Int a = 100110 111010 001011 101001;
 }
